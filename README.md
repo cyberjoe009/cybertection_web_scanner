@@ -1,4 +1,4 @@
-cybertection_web_scanner
+Cybertection_Web_Scanner
 
 Download the exe file. 
 
