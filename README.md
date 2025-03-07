@@ -2,6 +2,8 @@
 
 Download the exe file. 
 
+*****************************DOWNLOAD THE ZIP FILE (located in the code section**************************************
+
 
 Cybertection Web Scanner
 OPEN SOURCE SOFTWARE
