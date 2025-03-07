@@ -3,6 +3,7 @@
 Download the exe file. 
 
 *****************************DOWNLOAD THE ZIP FILE (located in the code section)**************************************
+****************************UNZIP the file after download, then you can run this program******************************
 
 easy to use - just type the url in the search bar and run.
 
