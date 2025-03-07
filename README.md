@@ -2,7 +2,7 @@
 
 Download the exe file. 
 
-*****************************DOWNLOAD THE ZIP FILE (located in the code section**************************************
+*****************************DOWNLOAD THE ZIP FILE (located in the code section)**************************************
 
 easy to use - just type the url in the search bar and run.
 
